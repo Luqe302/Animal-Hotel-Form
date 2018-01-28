@@ -1,0 +1,12 @@
+form input {
+  margin-bottom: 2rem;
+  width: 300px; }
+
+form textarea {
+  min-width: 300px;
+  max-width: 300px; }
+
+form submit {
+  display: block; }
+
+/*# sourceMappingURL=styles.css.map */
